@@ -31,7 +31,7 @@ It can do a lot of cool things, some of them being:
 - First **Fork** this repo by clicking button on top right corner
 - Then **Clone** the repo in your local machine
 - Navigate to the directory of your project
-- Install all the requirements given in **[Requirements.txt](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Requirements.txt)**
+- Install all the requirements given in **[Requirements.txt](https://github.com/Shivamdel27/Jarvis-Desktop-Voice-Assistant/blob/main/Requirements.txt)**
 - Install **PyAudio** from wheel file by following instructions given **[here](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)**
 - Run the python script named as ```jarvis.py``` which is in Jarvis Directory.
 - Now Enjoy with your own assistant !!!!
@@ -41,11 +41,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📌Author
 
-👤 **Kishan Kumar Rai**
-
-- Twitter: [@kishan_rajput23](https://twitter.com/kishan_rajput23)
-- Github: [@kishanrajput23](https://github.com/kishanrajput23)
-- LinkedIn: [@kishan-kumar-rai](https://linkedin.com/in/kishan-kumar-rai-23112000)
+👤 **Shivam Singh**
+- Github: [@Shivamdel27](https://github.com/Shivamdel27)
+- LinkedIn: [@shivam-singh](https://www.linkedin.com/in/shivam-singh-4b70761bb)
 
 ## 📌Show your support
 
